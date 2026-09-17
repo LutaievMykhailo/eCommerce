@@ -40,12 +40,15 @@ https://e-commerce-eosin-omega-46.vercel.app/
 
 ### Product Catalog
 
+<img width="1903" height="925" alt="shop" src="https://github.com/user-attachments/assets/686f8524-7ffe-4d45-8f32-87e7efc77f2d" />
 
 ### Product Details
 
+<img width="1902" height="922" alt="product-details" src="https://github.com/user-attachments/assets/89d48c46-d8c9-4b37-b4f3-3ab190431327" />
 
 ### Shopping Cart
 
+<img width="1900" height="917" alt="cart" src="https://github.com/user-attachments/assets/da8f551e-2cd7-4f68-b4fd-5be1781aa1c5" />
 
 ## 📁 Project Structure
 
